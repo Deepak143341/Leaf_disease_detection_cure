@@ -5,8 +5,8 @@ Motilal Nehru National Institute of Technology Allahabad
 Allahabad – INDIA</h1>
 <h2>CERTIFICATE</h2>
 This is to certify that the work contained in the thesis titled Leaf Disease Detection
-& its Cure Using Image Processing, submitted by Balvendra Singh (20195171)
-Deepak Kumar (20195085), Mayank Pratap Singh (20195135) in the partial 
+& its Cure Using Image Processing, submitted by Balvendra Singh
+Deepak Kumar, Mayank Pratap Singh in the partial 
 fulfillment of the requirement for the award of Bachelor of Technology in 
 Electronics and Communication Engineering to the Electronics and 
 Communication Engineering Department, Motilal Nehru National Institute of 
