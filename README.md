@@ -12,10 +12,12 @@ Electronics and Communication Engineering to the Electronics and
 Communication Engineering Department, Motilal Nehru National Institute of 
 Technology, Allahabad, is a bonafide work of the students carried out under my 
 supervision.
-Date: Dr. V. Krishna Rao
-Place: MNNIT ALLAHABAD Associate Professor
- ECE Department
- MNNIT, Allahabad
+Place: MNNIT ALLAHABAD
+<br>
+Dr. V. Krishna Rao
+Associate Professor
+ECE Department
+MNNIT, Allahabad
 ii
 <h1>Acknowledgement</h1>
 We would like to express our deepest appreciation to all those who provided us the 
@@ -28,9 +30,14 @@ invested his full effort in guiding the team in achieving the goal. We have to
 appreciate the guidance given by other supervisor as well as the panels especially 
 in our project presentation that has improved our presentation skills thanks to their 
 comment and advices.
-Date: Balvendra Singh
-Place: MNNIT ALLAHABAD Deepak Kumar
- Mayank Pratap Singh
+Place: MNNIT ALLAHABAD
+<ol>
+ <li>Balvendra Singh</li>
+ <li>Deepak Kumar</li>
+ <li>Mayank Pratap Singh</li>
+</ol>
+
+
 iii
 <h1>Abstract</h1>
 The Leaf Disease Detection and Cure project utilizes image processing techniques 
