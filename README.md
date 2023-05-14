@@ -17,7 +17,7 @@ Place: MNNIT ALLAHABAD Associate Professor
  ECE Department
  MNNIT, Allahabad
 ii
-Acknowledgement
+<h1>Acknowledgement</h1>
 We would like to express our deepest appreciation to all those who provided us the 
 possibility to complete this project report. A special gratitude we give to our final 
 year project mentor, Dr. V. Krishna Rao, whose contribution in stimulating 
@@ -32,7 +32,7 @@ Date: Balvendra Singh
 Place: MNNIT ALLAHABAD Deepak Kumar
  Mayank Pratap Singh
 iii
-Abstract
+<h1>Abstract</h1>
 The Leaf Disease Detection and Cure project utilizes image processing techniques 
 on MATLAB to develop an efficient and user-friendly solution for early detection 
 and management of leaf diseases in plants. Using image processing algorithms like 
