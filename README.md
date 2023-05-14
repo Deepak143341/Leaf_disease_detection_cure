@@ -1,8 +1,8 @@
 # Leaf_disease_detection_cure
 <h1>Department of Electronics & Communication 
 Engineering
-Motilal Nehru National Institute of Technology Allahabad
-Allahabad – INDIA</h1>
+<br>Motilal Nehru National Institute of Technology Allahabad
+<br>Allahabad – INDIA</h1>
 <ol>
  <li><h2>CERTIFICATE</h2>
 This is to certify that the work contained in the thesis titled Leaf Disease Detection
