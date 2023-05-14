@@ -3,7 +3,8 @@
 Engineering
 Motilal Nehru National Institute of Technology Allahabad
 Allahabad – INDIA</h1>
-<h2>CERTIFICATE</h2>
+<ol>
+ <li><h2>CERTIFICATE</h2>
 This is to certify that the work contained in the thesis titled Leaf Disease Detection
 & its Cure Using Image Processing, submitted by Balvendra Singh
 Deepak Kumar, Mayank Pratap Singh in the partial 
@@ -18,8 +19,9 @@ Dr. V. Krishna Rao
 Associate Professor
 ECE Department
 MNNIT, Allahabad
-ii
-<h1>Acknowledgement</h1>
+ </li>
+
+<li><h1>Acknowledgement</h1>
 We would like to express our deepest appreciation to all those who provided us the 
 possibility to complete this project report. A special gratitude we give to our final 
 year project mentor, Dr. V. Krishna Rao, whose contribution in stimulating 
@@ -36,10 +38,11 @@ Place: MNNIT ALLAHABAD
  <li>Deepak Kumar</li>
  <li>Mayank Pratap Singh</li>
 </ol>
+ </li>
 
 
-iii
-<h1>Abstract</h1>
+
+<li><h1>Abstract</h1>
 The Leaf Disease Detection and Cure project utilizes image processing techniques 
 on MATLAB to develop an efficient and user-friendly solution for early detection 
 and management of leaf diseases in plants. Using image processing algorithms like 
@@ -53,4 +56,5 @@ Early disease detection, crop loss reduction, and sustainable farming practices 
 all be made possible by this project's successful implementation. The project has 
 the potential to change the way diseases are tracked and improve crop health, yield, 
 and sustainability, thereby ensuring food security and long-term viability in 
-agriculture.
+ agriculture.</li>
+ </ol>
